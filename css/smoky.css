@@ -22,13 +22,14 @@ body{
     vertical-align: middle;
 }
 
+/*
 #video{
 	left: 23%;
 	top: 18%;
 	width: 55%;
 	height: 55%;
 	
-}
+}*/
 
 #splashIMG{
 	
@@ -91,3 +92,38 @@ text-shadow: none;
 color: #fff;
 line-height: 24px;
 }
+
+
+
+
+@media screen and (max-width:1200px) {
+
+	#video{
+	left: 20%;
+	top: 21%;
+	width: 62%;
+	height: 62%;
+	
+	}
+
+    
+}
+
+@media screen and (min-width:1200px) {
+
+	#video{
+	left: 23%;
+	top: 18%;
+	width: 55%;
+	height: 55%;
+	
+	}
+
+    
+}
+
+#playBagde{
+    width: 50%;
+    height: 50%;
+}
+
