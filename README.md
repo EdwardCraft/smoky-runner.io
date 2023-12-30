@@ -16,4 +16,4 @@ In Smoky Run, players control a cute little Pig named Smoky, navigating through 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/smoky-run.git
+     https://edwardcraft.github.io/smoky-runner.io/
